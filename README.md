@@ -1,6 +1,6 @@
 # MyPython
 # Here are some exercises
-##Day1.环境搭建
+##  Day1-环境搭建
 
-##WebApp骨架
+##  Day2-WebApp骨架
 
